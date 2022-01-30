@@ -1,2 +1,2 @@
 # capuchin
-cheat sheets, examples andlinks
+cheat sheets, examples and links
